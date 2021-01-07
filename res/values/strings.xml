@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Corona Boundary</string>
+
+    <string name="splash_noLocation">Autorisez la localisation pour utiliser l\'application</string>
+
+    <string name="main_inputHint">Votre adresse</string>
+    <string name="main_fillHome">Veuillez renseigner une addresse</string>
+</resources>

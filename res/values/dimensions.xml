@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="splash_logoSize">200dp</dimen>
+
+    <dimen name="main_startBtnSize">125dp</dimen>
+    <dimen name="main_startBtnPadding">25dp</dimen>
+
+    <dimen name="main_inputHeight">60dp</dimen>
+    <dimen name="main_borderRadius">12dp</dimen>
+    <dimen name="main_inputPadding">20dp</dimen>
+    <dimen name="main_inputBorderWidth">3dp</dimen>
+
+</resources>
