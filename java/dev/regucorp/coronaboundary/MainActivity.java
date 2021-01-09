@@ -16,7 +16,7 @@ public class MainActivity extends BaseActivity {
 
     // Location Stuff
     private LocationHandler handler;
-
+//bonjour
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
