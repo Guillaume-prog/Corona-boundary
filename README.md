@@ -3,4 +3,4 @@ A location based app that tracks walks and warns the user when they are breaking
 
 ## Status
 
-Prject abandonned, go check out project [Boundary](https://github.com/Guillaume-prog/Boundary) to see the continuation of it.
+Project abandonned, go check out project [Boundary](https://github.com/Guillaume-prog/Boundary) to see the continuation of it.
